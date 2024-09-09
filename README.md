@@ -53,9 +53,10 @@ This project is a backend API for an e-commerce application built using Spring B
 │   │               └── service            # Business logic services
 │   └── resources
 │       └── application.properties         # Application configuration
+```
 
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
